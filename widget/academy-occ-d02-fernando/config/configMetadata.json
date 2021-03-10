@@ -1,0 +1,36 @@
+{
+  "widgetDescriptorName": "academy-occ-d01-fernando",
+  "properties": [
+    {
+      "name": "title1",
+      "id": "title1",
+      "type": "stringType",
+      "helpTextResourceId": "helptitle1",
+      "labelResourceId": "labeltitle1"
+    },
+    {
+      "id": "image1",
+      "type": "mediaType",
+      "helpTextResourceId": "helpImage1",
+      "labelResourceId": "labelImage1"
+    },
+    {
+      "id": "image2",
+      "type": "mediaType",
+      "helpTextResourceId": "helpImage2",
+      "labelResourceId": "labelImage2"
+    },
+    {
+      "id": "image3",
+      "type": "mediaType",
+      "helpTextResourceId": "helpImage3",
+      "labelResourceId": "labelImage3"
+    },
+    {
+      "id": "image4",
+      "type": "mediaType",
+      "helpTextResourceId": "helpImage4",
+      "labelResourceId": "labelImage4"
+    }
+  ]
+}

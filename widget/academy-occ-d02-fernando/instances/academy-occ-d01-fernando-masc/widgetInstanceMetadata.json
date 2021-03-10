@@ -1,0 +1,22 @@
+{
+  "configuration": {
+    "image3": {
+      "src": "/file/v1550285741713208346/general/mt_09_azul.jpg",
+      "mediaName": "/general/mt_09_azul.jpg"
+    },
+    "image4": {
+      "src": "/file/v761862828686929036/general/yzf_R3_azul.png",
+      "mediaName": "/general/yzf_R3_azul.png"
+    },
+    "title1": "Você está logado!",
+    "image1": {
+      "src": "/file/v6892416377303145492/general/factor_125_vermelha.jpg",
+      "mediaName": "/general/factor_125_vermelha.jpg"
+    },
+    "image2": {
+      "src": "/file/v1334696891435279889/general/neo_125_azul.jpg",
+      "mediaName": "/general/neo_125_azul.jpg"
+    }
+  },
+  "displayName": "academy-occ-d01-fernando-masc"
+}

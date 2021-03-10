@@ -1,0 +1,22 @@
+{
+  "configuration": {
+    "image3": {
+      "src": "/file/v1736709955324671295/general/zero_copo.png",
+      "mediaName": "/general/zero_copo.png"
+    },
+    "image4": {
+      "src": "/file/v8883759057165272734/general/zero_bandeja.png",
+      "mediaName": "/general/zero_bandeja.png"
+    },
+    "title1": "Você não está logado!",
+    "image1": {
+      "src": "/file/v2535312254100967879/general/zero_garrafa850g.png",
+      "mediaName": "/general/zero_garrafa850g.png"
+    },
+    "image2": {
+      "src": "/file/v7422264599445504492/general/iogurte_zero.png",
+      "mediaName": "/general/iogurte_zero.png"
+    }
+  },
+  "displayName": "academy-occ-d01-fernando-default"
+}

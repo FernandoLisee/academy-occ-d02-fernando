@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "labelImage1": "Select image 1",
+    "labelImage2": "Select image 2",
+    "labeltitle1": "Enter the banner title",
+    "helptitle1": "Field for the banner title",
+    "labelImage3": "Select image 3",
+    "labelImage4": "Select image 4"
+  }
+}
